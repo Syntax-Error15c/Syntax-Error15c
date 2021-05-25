@@ -1,0 +1,75 @@
+{
+    "item": [
+        {
+            "id": "6000",
+            "name": "ADAPTADOR LINKSYS AE6000 CS12M MINI USB",
+            "sku": "AE6000",
+            "url": "https://www.psacomputoypapeleria.com/shop/adaptador-linksys-ae6000-cs12m-mini-usb-14631",
+            "image": "https://www.linksys.com/images/product_webdam/834320/renditions/webdam.web.372.372.jpeg",
+            "stock": "1",
+            "mrp": "392",
+            "salePrice": "392"
+        },
+        {
+            "id": "5400",
+            "name": "ROUTER INALAMBRICO LINKSYS E5400 DUAL-BAND",
+            "sku": "E5400",
+            "url": "https://www.psacomputoypapeleria.com/shop/router-inalambrico-linksys-e5400-dual-band-14621",
+            "image": "https://www.linksys.com/images/product_webdam/89485728/renditions/webdam.web.372.372.jpeg",
+            "stock": "1",
+            "mrp": "941",
+            "salePrice": "941"
+        },
+       {
+            "id": "3000",
+            "name": "REPETIDOR INALAMBRICO LINKSYS RE3000W N300",
+            "sku": "RE3000W",
+            "url": "https://www.psacomputoypapeleria.com/shop/repetidor-inalambrico-linksys-re3000w-n300-14629",
+            "image": "https://www.linksys.com/images/product_webdam/833996/renditions/webdam.web.372.372.jpeg",
+            "stock": "1",
+            "mrp": "636",
+            "salePrice": "636"
+        },
+       {
+            "id": "3200",
+            "name": "ROUTER INALAMBRICO LINKSYS WRT3200ACM MU-MIMO",
+            "sku": "WRT3200ACM",
+            "url": "https://www.psacomputoypapeleria.com/shop/router-inalambrico-linksys-wrt3200acm-mu-mimo-14622",
+            "image": "https://www.linksys.com/images/product_webdam/406931e2-7b3d-483f-9d6f-cc9372497d78/renditions/webdam.web.372.372.jpeg",
+            "stock": "1",
+            "mrp": "4195",
+            "salePrice": "4195"
+        },
+       {
+            "id": "63504",
+            "name": "ROUTER LINKSYS EA6350-4B DOBLE BANDA 4 PUERTOS",
+            "sku": "EA6350-4B",
+            "url": "https://www.psacomputoypapeleria.com/shop/router-linksys-ea6350-4b-doble-banda-4-puertos-14630",
+            "image": "https://www.linksys.com/images/product_webdam/98561246/renditions/webdam.web.372.372.jpeg",
+            "stock": "1",
+            "mrp": "1351",
+            "salePrice": "1351"
+        },
+       {
+            "id": "7300",
+            "name": "ROUTER LINKSYS EA7300 3.0 MU-MIMO DUAL BAND",
+            "sku": "EA7003",
+            "url": "https://www.psacomputoypapeleria.com/shop/router-linksys-ea7300-3-0-mu-mimo-dual-band-14623",
+            "image": "https://www.linksys.com/images/productmt_aem/43e2959a-33aa-4162-850a-75fe585e6726/renditions/cq5dam.web.372.372.jpeg",
+            "stock": "1",
+            "mrp": "2662",
+            "salePrice": "2662"
+        },
+       {
+            "id": "0301",
+            "name": "ROUTER LINKSYS WHW0301 AC2200 WIFI EN MALLA",
+            "sku": "WHW0301",
+            "url": "https://www.psacomputoypapeleria.com/shop/router-linksys-whw0301-ac2200-wifi-en-malla-14632",
+            "image": "https://www.linksys.com/images/product_webdam/ce064fce-5ae5-47ed-a230-f0bcc97e94ea/renditions/webdam.web.1000.1000.jpeg",
+            "stock": "1",
+            "mrp": "941",
+            "salePrice": "2602.99"
+        },
+
+    ]
+}
